@@ -6,6 +6,9 @@ gem 'ostruct'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.5", ">= 7.1.5.1"
 
+gem "dotenv-rails"
+
+gem "cloudinary"
 
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
